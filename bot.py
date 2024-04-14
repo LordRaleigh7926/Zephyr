@@ -6,7 +6,7 @@ import art
 import requests
 import json
 
-TOKEN = 'MTEzMjE1NjI1NTU3NDcwODI1NA.GCrL4z.21_s09l8FA6GY_Ik-duLiCEh-KsMcxRkZBwj10'
+TOKEN = "YourToken"
 
 client = commands.Bot(intents=Intents().all(), command_prefix="!")
 @client.event
